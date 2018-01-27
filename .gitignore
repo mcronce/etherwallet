@@ -14,3 +14,7 @@ _ens/
 *.zip
 cert.pem
 key.pem
+
+*~
+.*.sw*
+
