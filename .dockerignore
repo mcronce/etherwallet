@@ -1,0 +1,11 @@
+**/*~
+**/.*.sw*
+.git
+
+**/.*ignore
+
+*.md
+
+Dockerfile
+.travis.yml
+
